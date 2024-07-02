@@ -17,14 +17,11 @@ In this project, I reviewed and updated threat definitions, ran the Defender Ant
 - <b>Configure Firewall Rules using Microsoft Windows Defender Firewall with and without Advanced Security (使用 Microsoft Windows Defender 設定進階安全性的防火牆規則)</b> 
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Materal and Methods 材料與方法</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+- <b>Coursera platform (Coursera 線上學習平台)</b> 
+- <b>Virtual Cloud Workspace (虛擬雲端工作區)</b>
+- <b>PC (個人電腦對照差異)</b> 
 
 <h2>Program walk-through:</h2>
 
