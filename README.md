@@ -3,9 +3,9 @@
 
 
 <h2>Outline 簡介</h2>
-In this project, I reviewed and updated threat definitions, ran the Defender Antivirus quick scan, and configured Firewall Rules with and without Advanced Security. There are two labs in this project. During the first lab, I reviewed Windows Security Virus and threat protection, updated threat definitions, and ran a Windows Defender Antivirus quick scan. As the second lab, I configured Firewall Rules using Microsoft Windows Defender Firewall with and without Advanced Security. 
+In this project, I reviewed and updated threat definitions, ran the Microsoft Windows Defender Antivirus quick scan, and configured Firewall Rules with and without Advanced Security. There are two labs in this project. During the first lab, I reviewed Windows Security Virus and threat protection, updated threat definitions, and ran a Windows Defender Antivirus quick scan. As the second lab, I configured Firewall Rules using Microsoft Windows Defender Firewall with and without Advanced Security. 
 
-<b>本次專題會檢視並更新威脅定義，使用 Defender Antivirus 執行快速掃描與自訂，並配置進階安全性的防火牆規則。該項目有兩個實驗室。Lab1 查看 Windows 安全性病毒和威脅防護、更新威脅定義並執行 Windows Defender 防毒快速掃描。Lab2 則使用 Microsoft Windows Defender 調整防火牆配置。</b>
+<b>本次專題會檢視並更新威脅定義，使用 Microsoft Windows Defender Antivirus 執行快速掃描與自訂，並配置進階安全性的防火牆規則。該項目有兩個實驗室。Lab1 查看 Windows 安全性病毒和威脅防護、更新威脅定義並執行 Windows Defender 防毒快速掃描。Lab2 則使用 Microsoft Windows Defender 調整防火牆配置。</b>
 <br />
 
 
