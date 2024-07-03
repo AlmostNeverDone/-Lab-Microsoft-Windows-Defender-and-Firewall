@@ -27,7 +27,7 @@ In this project, I reviewed and updated threat definitions, ran the Defender Ant
 
 <p align="center">
 Lab1-1-Scan options:Custom scan 掃描選項:自訂掃描 <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://i.imgur.com/8rEhbGi.jpeg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/62TgaWL.png](https://i.imgur.com/8rEhbGi.jpg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
