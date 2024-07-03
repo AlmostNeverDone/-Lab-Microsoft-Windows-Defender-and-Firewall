@@ -27,32 +27,21 @@ In this project, I reviewed and updated threat definitions, ran the Defender Ant
 
 <p align="center">
 Lab1-1-Scan options:Custom scan 掃描選項:自訂掃描 <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://i.imgur.com/8rEhbGi.jpg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8rEhbGi.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lab1-2-PC Scan(Control Group) PC掃描(對照組)  <br/>
+<img src="https://i.imgur.com/fXfCSYV.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lab2-1-Review Firewall Configuration 檢視防火牆配置 <br/>
+<img src="https://i.imgur.com/htrpTz2.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lab2-2-Configure Firewall Rules 配置防火牆規則  <br/>
+<img src="https://i.imgur.com/iRpj4Gd.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
