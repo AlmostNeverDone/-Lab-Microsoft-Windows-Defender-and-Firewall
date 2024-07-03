@@ -2,7 +2,7 @@
 專題: Microsoft Windows Defender 與防火牆
 
 
-<h2>Description 說明</h2>
+<h2>Outline 簡介</h2>
 In this project, I reviewed and updated threat definitions, ran the Defender Antivirus quick scan, and configured Firewall Rules with and without Advanced Security. There are two labs in this project. During the first lab, I reviewed Windows Security Virus and threat protection, updated threat definitions, and ran a Windows Defender Antivirus quick scan. As the second lab, I configured Firewall Rules using Microsoft Windows Defender Firewall with and without Advanced Security. 
 
 <b>本次專題會檢視並更新威脅定義，使用 Defender Antivirus 執行快速掃描與自訂，並配置進階安全性的防火牆規則。該項目有兩個實驗室。Lab1 查看 Windows 安全性病毒和威脅防護、更新威脅定義並執行 Windows Defender 防毒快速掃描。Lab2 則使用 Microsoft Windows Defender 調整防火牆配置。</b>
@@ -17,17 +17,17 @@ In this project, I reviewed and updated threat definitions, ran the Defender Ant
 - <b>Configure Firewall Rules using Microsoft Windows Defender Firewall with and without Advanced Security (使用 Microsoft Windows Defender 設定進階安全性的防火牆規則)</b> 
 
 
-<h2>Materal and Methods 材料與方法</h2>
+<h2>Materials and Methods 材料與方法</h2>
 
 - <b>Coursera platform (Coursera 線上學習平台)</b> 
 - <b>Virtual Cloud Workspace (虛擬雲端工作區)</b>
-- <b>PC (個人電腦對照差異)</b> 
+- <b>PC (win10,個人電腦對照差異)</b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lab1-1-Scan options:Custom scan 掃描選項:自訂掃描 <br/>
+<img src="[https://i.imgur.com/62TgaWL.png](https://i.imgur.com/8rEhbGi.jpeg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
