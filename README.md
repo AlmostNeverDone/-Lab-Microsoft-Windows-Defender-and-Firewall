@@ -23,7 +23,7 @@ In this project, I reviewed and updated threat definitions, ran the Microsoft Wi
 - <b>Virtual Cloud Workspace (虛擬雲端工作區)</b>
 - <b>PC (win10,個人電腦對照差異)</b> 
 
-<h2>Program walk-through 程式演練</h2>
+<h2>Practice 實踐</h2>
 
 <p align="center">
 Lab1-1-Scan options:Custom scan 掃描選項:自訂掃描 <br/>
